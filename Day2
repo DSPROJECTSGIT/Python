@@ -1,0 +1,31 @@
+#python operator
+  #Arithmatic 
+Internal_mark = 23
+External_mark =65
+
+print(Internal_mark+External_mark) #Addition
+
+print(Internal_mark-External_mark) #subtract
+
+print(Internal_mark*External_mark) #Mul
+
+print(Internal_mark/External_mark) #div
+
+print(Internal_mark%External_mark) #modulus
+
+print(Internal_mark ** External_mark) # exponential (square) 
+
+print(Internal_mark // External_mark) #floor division 
+
+#ANS:
+#88
+#-42
+#1495
+#0.35384615384615387
+#23
+#32531893445129332611554645425981044974375991037324055622153329695632580166211412428357143
+#0
+
+#[Process completed - press Enter]
+______________________________________________________________________________________
+
