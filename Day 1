@@ -1,0 +1,59 @@
+#object
+
+langauge =56
+print(id(langauge))
+print(type(langauge))
+print("your mark is", langauge)
+-----------------------------------------------------------------------------
+#Varible
+
+#string
+Yourname="DS"
+print(Yourname)
+
+#Integer
+Yourage=20
+print(Yourage)
+
+#float
+Yourpercentage=123.5
+print((Yourpercentage))
+-------------------------------------------------------------------------------
+#Rules for creating variable
+  #name start with letter 
+  #number not possible
+  #its case sensitive (name,Name,NAME)
+  #symbol not possible (=,-,+ etc)
+  #Namelog=Your_name
+-------------------------------------------------------------------------------
+#declear var
+Number =100
+print("Before redeclear",Number)
+
+#Redeclar var
+Number = 125
+print("After redeclear",Number)
+-------------------------------------------------------------------------------
+#Assaining defferant values in multiple vars:
+a,b,c =(2,23.5,"string")
+print(a)  #int
+print(b)  #flot
+print(c)  #string
+-------------------------------------------------------------------------------
+#Basic datatype
+ #string
+    #single quote  (')
+    #double quote   (")
+    #triple quote   (""") or (''')
+
+#practice
+Name = "Ds"         #double quote 
+place = '****'      #single quote  
+Age = """20"""      #triple quote   
+Sex = '''Male'''    #triple quote   
+print(Name)
+print(place)
+print(Age)
+print(Sex)
+-------------------------------------------------------------------------------
+
