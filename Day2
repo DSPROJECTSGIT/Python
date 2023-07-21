@@ -141,5 +141,18 @@ supply = 1300
 Final = Demand <= supply
 print(Final)
 
+#Ans
+#False
+#True
+#True
+#False
+#False
+#True
+#True
+#False
+#True
+#True
+
+[Process completed - press Enter]
 ______________________________________________________________________________________
 
