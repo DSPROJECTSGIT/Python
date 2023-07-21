@@ -29,3 +29,45 @@ print(Internal_mark // External_mark) #floor division
 #[Process completed - press Enter]
 ______________________________________________________________________________________
 
+#Assainment operator
+#assain
+x=5
+print(x)
+
+#add and assign
+x+=5
+print(x)
+
+a=1
+b=2
+a+=b
+print(a) 
+#ans 3 a+=b . a=a+b
+
+#subtract and assign
+a=1
+b=2
+a-=b
+print(a) 
+
+#multile and assign
+a=1
+b=2
+a*=b
+print(a) 
+#div and assign
+a=1
+b=2
+a/=b
+print(a) 
+#modulus and assign
+a=1
+b=2
+a%=b
+print(a) 
+#floor and assign
+a=1
+b=2
+a//=b
+print(a) 
+______________________________________________________________________________________
