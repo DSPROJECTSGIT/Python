@@ -57,3 +57,30 @@ print(Age)
 print(Sex)
 -------------------------------------------------------------------------------
 
+#Python datatypes
+#Program with example
+x="string" #string
+print(x)
+
+y=5
+print(y) #int
+
+z=56.5
+print(z) #float
+
+#BOLLEAN =True or False
+ 
+#list
+list=["1",2,3,4,5]
+print(list)
+#tuple
+tuple=(1,2,3,4,5)
+print(tuple)
+#dictinary
+dict={1:1,2:2}
+print(dict)
+#frozen
+fro=({"apple","banna","cat"})
+print(fro)
+-------------------------------------------------------------------------------
+
