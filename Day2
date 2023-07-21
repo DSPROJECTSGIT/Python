@@ -83,3 +83,63 @@ print(a)
 
 [Process completed - press Enter]
 ______________________________________________________________________________________
+#python comparison operater
+#equal 
+
+Demand = 1000
+supply = 1300
+Final = Demand == supply
+print(Final)
+
+Demand = 1000
+supply = 1000
+Final = Demand == supply
+print(Final)
+
+#notequal
+Demand = 1000
+supply = 1300
+Final = Demand != supply
+print(Final)
+
+Demand = 1000
+supply = 1000
+Final = Demand != supply
+print(Final)
+
+#greater
+Demand = 1000
+supply = 1300
+Final = Demand > supply
+print(Final)
+
+Demand = 1400
+supply = 1300
+Final = Demand > supply
+print(Final)
+
+#lesser
+Demand = 1000
+supply = 1300
+Final = Demand < supply
+print(Final)
+
+Demand = 1700
+supply = 1300
+Final = Demand <supply
+print(Final)
+
+#greaterthanequal
+Demand = 1300
+supply = 1300
+Final = Demand >= supply
+print(Final)
+
+#lesserthanequal
+Demand = 1000
+supply = 1300
+Final = Demand <= supply
+print(Final)
+
+______________________________________________________________________________________
+
