@@ -14,3 +14,10 @@ M - Multiplication: Perform multiplication operations from left to right.
 D - Division: Perform division operations from left to right.
 A - Addition: Perform addition operations from left to right.
 S - Subtraction: Perform subtraction operations from left to right.'''
+ --------------------------------____________________-----------------------
+#Python data structures
+''' LIST [] - indexing ,ordered, mutable, Duplicate 
+    TUPLE() - indexing, ordered, immutable, Duplicate
+    SET{}.  - EMPTY
+    DIC{KV}. - ORDER, MUTABLE
+    
