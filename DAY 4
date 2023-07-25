@@ -1,0 +1,16 @@
+#operator precedence
+a=56
+b=654
+c=78
+d=79
+e=76
+j=(a*b/e+d-a*(d-a))
+print(j)
+
+#BODMAS #PEMDAS
+''' P - Parentheses: Perform calculations inside parentheses first.
+E - Exponents: Evaluate any exponents (or powers) next.
+M - Multiplication: Perform multiplication operations from left to right.
+D - Division: Perform division operations from left to right.
+A - Addition: Perform addition operations from left to right.
+S - Subtraction: Perform subtraction operations from left to right.'''
